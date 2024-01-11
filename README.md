@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 [![Song's github stats](https://github-readme-stats.vercel.app/api?username=sgao-becls)](https://github.com/anuraghazra/github-readme-stats)
 
-[file_processing_service](https://github.com/cytobank/file_processing_service)
+[Core Compute Service](https://github.com/cytobank/core_compute_service)
 
 [cytobank](https://github.com/cytobank/cytobank)
+
+[file_processing_service](https://github.com/cytobank/file_processing_service)
