@@ -8,4 +8,6 @@
 
 [fap-iac](https://github.com/cytobank/fap-iac)
 
+[Flow-Platform-APIs](https://github.com/BeclsFlow/Flow-Platform-Specifications)
+
 一杯宫廷玉液酒 * 3 + 一盘群英荟萃 - (大锤 * 2 + 小锤 * 5) = ?
